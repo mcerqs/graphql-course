@@ -1,0 +1,30 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "Learning graphql",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcerqs/graphql-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcerqs/graphql-course/issues"
+  },
+  "homepage": "https://github.com/mcerqs/graphql-course#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  }
+}
